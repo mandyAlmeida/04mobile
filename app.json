@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "advanced_diary_app",
+    "slug": "advanced_diary_app",
+    "extra": {
+      "clerkPublishableKey": "pk_test_ZWxlY3RyaWMtZWdyZXQtNjIuY2xlcmsuYWNjb3VudHMuZGV2JA"
+    },
+    "version": "1.0.0",
+    "scheme": "diary-app",
+    "owner": "twofifty777",
+    "updates": {
+      "enabled": true,
+      "url": "https://u.expo.dev/c21764f8-8dca-4421-8a49-a89dbfefcd38"
+    },
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.twofifty777.diary_app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
