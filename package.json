@@ -9,7 +9,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
-  "dependencies": {
+    "dependencies": {
     "@clerk/clerk-expo": "^2.9.10",
     "@expo/metro-runtime": "~4.0.1",
     "@expo/vector-icons": "^14.0.2",
@@ -47,3 +47,4 @@
   },
   "private": true
 }
+

@@ -5,3 +5,4 @@ module.exports = function (api) {
         plugins: ['react-native-reanimated/plugin'], // 👈 ADICIONE ESTA LINHA
     };
 };
+
