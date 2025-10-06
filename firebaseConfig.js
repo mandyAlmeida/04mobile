@@ -3,15 +3,16 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA290FK9RedRVIjVChpQbjkf97FBu5JfVg",
-    authDomain: "diary-app-69735.firebaseapp.com",
-    projectId: "diary-app-69735",
-    storageBucket: "diary-app-69735.appspot.com",
-    messagingSenderId: "685072447248",
-    appId: "1:685072447248:web:db2dc0ff56a8632f0dd795"
+    apiKey: "xxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxxxxxxxxx.firebaseapp.com",
+    projectId: "xxxxxxxxxxxxxx",
+    storageBucket: "xxxxxxxxx",
+    messagingSenderId: "6000000000000",
+    appId: "0:00000000000000000000000000000000"
 };
 
 const app = initializeApp(firebaseConfig);
 
 export const auth = getAuth(app);
 export const db = getFirestore(app);
+

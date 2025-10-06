@@ -3,14 +3,14 @@
     "name": "advanced_diary_app",
     "slug": "advanced_diary_app",
     "extra": {
-      "clerkPublishableKey": "pk_test_ZWxlY3RyaWMtZWdyZXQtNjIuY2xlcmsuYWNjb3VudHMuZGV2JA"
+      "clerkPublishableKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     },
     "version": "1.0.0",
     "scheme": "diary-app",
-    "owner": "twofifty777",
+    "owner": "xxxxxxxxxxxxxxxxxxxx",
     "updates": {
       "enabled": true,
-      "url": "https://u.expo.dev/c21764f8-8dca-4421-8a49-a89dbfefcd38"
+      "url": "https://u.expo.dev/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     },
     "orientation": "default",
     "icon": "./assets/icon.png",
