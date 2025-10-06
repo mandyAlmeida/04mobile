@@ -30,3 +30,8 @@ App com autenticação de usuário (login através de e-mail ou github e cadastr
 - Autenticação e gerenciamento de estados complexos.
 
 - Boas práticas de design, navegação e UX.
+
+
+Tecnologia utilizada:
+
+- React & React Native (JavaScript)
