@@ -11,7 +11,7 @@ Mobile 4 – Auth and Database
 
 🧩 Funcionalidade:
 
-App com autenticação de usuário (login e cadastro) e integração com banco de dados para salvar informações.
+App com autenticação de usuário (login através de e-mail ou github e cadastro) e integração com banco de dados para salvar informações.
 
 📚 Aprendizados desta etapa:
 
